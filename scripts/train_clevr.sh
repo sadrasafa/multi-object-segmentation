@@ -1,5 +1,5 @@
 #!/bin/bash
 
-cd src
+cd ../src
 
 python main.py --config config_sacnn.yaml UNSUPVIDSEG.DATASET CM.R SOLVER.IMS_PER_BATCH 8 LOG_ID CLEVR SOLVER.BASE_LR 0.00015 FLAGS.USE_CCPP False MODEL.MASK_FORMER.NUM_OBJECT_QUERIES 8

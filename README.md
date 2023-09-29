@@ -88,12 +88,12 @@ The data directory structure should look like this:
 # Training
 
 You can train the model on the datasets by running the corresponding scripts.
-E.g. for movi_c, run `./train_movi_c.sh`
+E.g. for movi_c, run `./scripts/train_movi_c.sh`
 
 # Inference
 
 You can evaluate the model on the synthetic datasets by running the corresponding scripts.
-E.g. for movi_c, run `./eval_movi_c.sh` and set the model weights path in the script.
+E.g. for movi_c, run `./scripts/eval_movi_c.sh` and set the model weights path in the script to the path of the segmentation model.
 
 # Trained Models
 
