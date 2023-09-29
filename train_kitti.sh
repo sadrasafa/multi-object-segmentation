@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cd src
+
+python main.py --config config_dino_kitti.yaml UNSUPVIDSEG.DATASET KITTIDATASET SOLVER.IMS_PER_BATCH 2 LOG_ID KITTIDATASET SOLVER.BASE_LR 0.00015 FLAGS.USE_CCPP False
