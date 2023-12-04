@@ -1,10 +1,10 @@
 # Multi-Object Discovery by Low-Dimensional Object Motion (ICCV 2023)
 
-### [Project Page](https://kuis-ai.github.io/monodepthseg/) | [Paper](https://arxiv.org/abs/2110.11275)
+### [Project Page](https://kuis-ai.github.io/multi-object-segmentation/) | [Paper](https://arxiv.org/abs/2307.08027)
 
 
 This is the code for our ICCV 2023 paper:
-> **[Multi-Object Discovery by Low-Dimensional Object Motion](https://arxiv.org/abs/2110.11275)** \
+> **[Multi-Object Discovery by Low-Dimensional Object Motion](https://arxiv.org/abs/2307.08027)** \
 > [Sadra Safadoust](https://sadrasafa.github.io/) and [Fatma Güney](https://mysite.ku.edu.tr/fguney/)
 
 
